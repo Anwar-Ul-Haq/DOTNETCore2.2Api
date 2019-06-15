@@ -1,0 +1,14 @@
+D:\PS\Building an API with ASP.NET Core\Code\bin\Debug\netcoreapp2.2\CoreCodeCamp.deps.json
+D:\PS\Building an API with ASP.NET Core\Code\bin\Debug\netcoreapp2.2\CoreCodeCamp.runtimeconfig.json
+D:\PS\Building an API with ASP.NET Core\Code\bin\Debug\netcoreapp2.2\CoreCodeCamp.runtimeconfig.dev.json
+D:\PS\Building an API with ASP.NET Core\Code\bin\Debug\netcoreapp2.2\CoreCodeCamp.dll
+D:\PS\Building an API with ASP.NET Core\Code\bin\Debug\netcoreapp2.2\CoreCodeCamp.pdb
+D:\PS\Building an API with ASP.NET Core\Code\obj\Debug\netcoreapp2.2\CoreCodeCamp.csprojAssemblyReference.cache
+D:\PS\Building an API with ASP.NET Core\Code\obj\Debug\netcoreapp2.2\CoreCodeCamp.csproj.CoreCompileInputs.cache
+D:\PS\Building an API with ASP.NET Core\Code\obj\Debug\netcoreapp2.2\CoreCodeCamp.RazorAssemblyInfo.cache
+D:\PS\Building an API with ASP.NET Core\Code\obj\Debug\netcoreapp2.2\CoreCodeCamp.RazorAssemblyInfo.cs
+D:\PS\Building an API with ASP.NET Core\Code\obj\Debug\netcoreapp2.2\CoreCodeCamp.AssemblyInfoInputs.cache
+D:\PS\Building an API with ASP.NET Core\Code\obj\Debug\netcoreapp2.2\CoreCodeCamp.AssemblyInfo.cs
+D:\PS\Building an API with ASP.NET Core\Code\obj\Debug\netcoreapp2.2\CoreCodeCamp.RazorTargetAssemblyInfo.cache
+D:\PS\Building an API with ASP.NET Core\Code\obj\Debug\netcoreapp2.2\CoreCodeCamp.dll
+D:\PS\Building an API with ASP.NET Core\Code\obj\Debug\netcoreapp2.2\CoreCodeCamp.pdb
